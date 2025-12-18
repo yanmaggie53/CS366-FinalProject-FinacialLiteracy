@@ -1,5 +1,5 @@
 # CS366-FinalProject-FinacialLiteracy
-Includes prompting for GPT customization and configuration of both Narrative and Factual conditions, SPSS output files, and link to interactive Figma prototype.
+This repository includes prompting for GPT customization and configuration of both Narrative and Factual conditions, SPSS output files, and link to interactive Figma prototype.
 Instructions on how to run Figma prototype is listed below.
 
 To run Figma prototype on your own desktop: 
